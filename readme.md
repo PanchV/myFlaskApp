@@ -5,7 +5,7 @@ https://panchv-myflaskapp.herokuapp.com/
 
 (Tests for both pages pass)
 
-Build Icon
+Build Icon:
 
 [![Production Workflow](https://github.com/PanchV/myFlaskApp/actions/workflows/prod.yml/badge.svg)](https://github.com/PanchV/myFlaskApp/actions/workflows/prod.yml)
 
